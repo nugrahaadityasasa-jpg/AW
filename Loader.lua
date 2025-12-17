@@ -1,5 +1,5 @@
 -- Ganti link ini dengan RAW LINK GitHub repo kamu nanti
-local RepoURL = "https://raw.githubusercontent.com/USERNAME/REPO/main/AnimeWeapons_V2/"
+local RepoURL = "https://raw.githubusercontent.com/nugrahaadityasasa-jpg/AW/main/"
 
 local function LoadModule(path)
     local url = RepoURL .. path
